@@ -1,3 +1,4 @@
+# Dependencias para el proyecto
 scikit-learn
 joblib
 dvc
